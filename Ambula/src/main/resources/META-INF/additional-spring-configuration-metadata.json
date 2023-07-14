@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.hsqldb.server.database-path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hsqldb.server.database-path'"
+  },
+  {
+    "name": "spring.hsqldb.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hsqldb.server.port'"
+  },
+  {
+    "name": "spring.hsqldb.server.database-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hsqldb.server.database-name'"
+  }
+]}
